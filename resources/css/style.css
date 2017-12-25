@@ -5,9 +5,18 @@ html{
 
 
 
+footer{
+  background-color: dimgray;	
+}
+.white{
+  color:white;	
+}
 
 
 
+#newyorkbackground{
+  background-image: url("../images/building_background.png");
+}
 
 
 #about{
