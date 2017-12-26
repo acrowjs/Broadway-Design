@@ -3,17 +3,35 @@ html{
   font-family: Helvetica; 
 }
 
-
+h3{
+  font-size: 23px;	
+}
 
 footer{
   background-color: dimgray;	
+  font-size: 11px;
 }
 .white{
   color:white;
 }
 
+.font_14{
+  font-size:14px;	
+}
+
+.font_18{
+  font-size:18px;	
+}
+
+	
+}
+
 #h1{
   font-size:70px;	
+}
+
+#h2{
+  font-size:32px;	
 }
 
 #newyorkbackground{
