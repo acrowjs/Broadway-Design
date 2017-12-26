@@ -8,6 +8,7 @@ h3{
 }
 
 footer{
+  display:block;
   text-align: left;
   background-color: dimgray;	
 }
@@ -27,6 +28,9 @@ footer{
   font-size:18px;	
 }
 
+.inline{
+  display: inline;	
+}
 	
 #h1{
   font-size:70px;	
@@ -44,10 +48,3 @@ footer{
   background-image: url("../images/building_background.png");
 }
 
-#float{
-  float: right;
-}
-
-#clear{
-  clear:left;	
-}
