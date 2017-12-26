@@ -9,10 +9,12 @@ footer{
   background-color: dimgray;	
 }
 .white{
-  color:white;	
+  color:white;
 }
 
-
+#h1{
+  font-size:70px;	
+}
 
 #newyorkbackground{
   background-image: url("../images/building_background.png");
