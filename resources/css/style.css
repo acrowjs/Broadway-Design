@@ -8,11 +8,15 @@ h3{
 }
 
 footer{
+  text-align: left;
   background-color: dimgray;	
-  font-size: 11px;
 }
 .white{
   color:white;
+}
+
+.font_11{
+  font-size: 11px;	
 }
 
 .font_14{
@@ -24,8 +28,6 @@ footer{
 }
 
 	
-}
-
 #h1{
   font-size:70px;	
 }
@@ -34,11 +36,18 @@ footer{
   font-size:32px;	
 }
 
+#about{
+  background-image: url("../images/building_background.png");  
+}
+
 #newyorkbackground{
   background-image: url("../images/building_background.png");
 }
 
+#float{
+  float: right;
+}
 
-#about{
-  background-image: url("../images/building_background.png");  
+#clear{
+  clear:left;	
 }
